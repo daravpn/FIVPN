@@ -1,10 +1,12 @@
-//Support us on Telegram !
+//Support us!
+==============
+#https://t.me/SkartiVPN
+#https://t.me/PhreakersVPN
+#https://saweria.co/SkartiVPN
 
-#t.me/SkartiVPN
-#t.me/PhreakersVPN
+//Owner
+#https://t.me/SaputraTech
 
-//Support us on Donation !
-
-#saweria.co/SkartiVPN
-
+==========================
 //Thanks You For Support !
+==========================
