@@ -8,6 +8,5 @@
 ========
 #https://t.me/SaputraTech
 
-=========================
 Thanks You For Support !
-
+=========================
